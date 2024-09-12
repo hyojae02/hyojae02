@@ -4,7 +4,7 @@ Hello! I'm **Hyojae Moon**, a passionate software developer who loves solving pr
 
 ## About Me
 
-I have experience in [Back-End(Spring)]. Currently, I'm focused on [Spring, Java], and I enjoy learning new technologies and applying them to my projects.
+I have experience in [Back-End]. Currently, I'm focused on [Spring, Java], and I enjoy learning new technologies and applying them to my projects.
 
 - 🔭 I’m currently working on: [festival booth]
 - 🌱 I’m currently learning: [Flask]
